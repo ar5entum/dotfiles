@@ -1,0 +1,9 @@
+2023/09/02-23:22:47.352 6755 Reusing MANIFEST /home/ruvi/.config/figma-linux/Local Storage/leveldb/MANIFEST-000001
+2023/09/02-23:22:47.353 6755 Recovering log #339
+2023/09/02-23:22:47.353 6755 Reusing old log /home/ruvi/.config/figma-linux/Local Storage/leveldb/000339.log 
+2023/09/02-23:22:59.262 6756 Level-0 table #343: started
+2023/09/02-23:22:59.267 6756 Level-0 table #343: 24379 bytes OK
+2023/09/02-23:22:59.269 6756 Delete type=0 #339
+2023/09/02-23:23:54.153 6755 Level-0 table #345: started
+2023/09/02-23:23:54.156 6755 Level-0 table #345: 23588 bytes OK
+2023/09/02-23:23:54.157 6755 Delete type=0 #342

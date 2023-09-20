@@ -1,0 +1,2 @@
+2023-09-16 11:00:59.457 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/ruvi/.themes/Palenight/index.theme","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-09-16 11:01:00.622 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ruvi/.vscode-oss/extensions

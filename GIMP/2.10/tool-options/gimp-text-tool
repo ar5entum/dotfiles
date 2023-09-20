@@ -1,0 +1,9 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 1 1 1))
+(palette "Color History")
+(font "URW Gothic")
+(justify fill)
+(letter-spacing -1)
+
+# end of gimp-text-tool options

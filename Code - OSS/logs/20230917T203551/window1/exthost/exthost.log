@@ -1,0 +1,25 @@
+2023-09-17 20:35:55.122 [info] Extension host with pid 4593 started
+2023-09-17 20:35:55.466 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-17 20:35:55.502 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-09-17 20:35:56.352 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-17 20:35:56.392 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-17 20:35:56.476 [info] Eager extensions activated
+2023-09-17 20:35:56.484 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-17 20:35:56.491 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-17 20:36:40.380 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-17 20:36:40.392 [info] Extension host with pid 4593 exiting with code 0
+2023-09-17 20:36:42.256 [info] Extension host with pid 4814 started
+2023-09-17 20:36:42.256 [info] Skipping acquiring lock for /home/ruvi/.config/Code - OSS/User/workspaceStorage/87b8506d775f843db618b7e25bc6cb8d.
+2023-09-17 20:36:42.331 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-17 20:36:42.343 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-17 20:36:42.364 [info] Eager extensions activated
+2023-09-17 20:36:42.507 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-17 20:36:42.512 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-17 20:36:44.622 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-17 20:36:45.857 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-17 20:36:47.229 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2023-09-17 20:36:47.257 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2023-09-17 20:36:47.414 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2023-09-17 20:39:30.724 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2023-09-17 20:58:32.446 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-17 20:58:32.470 [info] Extension host with pid 4814 exiting with code 0

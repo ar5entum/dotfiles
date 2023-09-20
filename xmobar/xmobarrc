@@ -1,0 +1,26 @@
+Config {
+	font = "xft:Hack Nerd Font: size=9: normal: antialias=true"
+		, bgColor = "#292d3e"
+		, fgColor = "#d0d0d0"
+		, position = Top
+		, lowerOnStart = False
+		, hideOnStart = False
+		, overrideRedirect = False
+		, persistent = True
+		, commands = [ Run Weather "VAPO" ["-t","Pune: <tempC>C","-L","18","-H","35","--normal","#c792ea","--high","red","--low","white"] 36000
+		, Run Cpu ["-L","3","-H","50","--normal","green","--high","red"] 10
+		, Run Memory ["-t","Mem: <usedratio>%"] 10
+		, Run Date "%a %b %_d %Y %H:%M:%S" "date" 10
+		, Run Battery [
+			"-t", "<acstatus>: <left>% - <timeleft>",
+			"--",
+			--"-c", "charge_full",
+			"-O", "AC",
+			"-o", "Bat",
+			"-h", "green",
+			"-l", "red"
+			] 10]
+		, sepChar = "%"
+		, alignSep = "}{"
+		, template = "Arch Linux %cpu% | %memory%}<fc=#c792ea> %date%</fc>{ %VAPO% | %battery%"
+}

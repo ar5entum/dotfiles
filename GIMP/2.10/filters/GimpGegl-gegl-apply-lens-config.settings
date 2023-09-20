@@ -1,0 +1,29 @@
+# settings
+
+(GimpGegl-gegl-apply-lens-config "2023-01-26 13:36:31"
+    (time 1674720391)
+    (refraction-index 1.7)
+    (keep-surroundings no)
+    (background-color (color-rgba 0 0 0 1)))
+(GimpGegl-gegl-apply-lens-config "2023-01-26 13:33:07"
+    (time 1674720187)
+    (refraction-index 1.2749999999999999)
+    (keep-surroundings no)
+    (background-color (color-rgba 0 0 0 1)))
+(GimpGegl-gegl-apply-lens-config "2023-01-26 13:31:50"
+    (time 1674720110)
+    (refraction-index 1)
+    (keep-surroundings no)
+    (background-color (color-rgba 0 0 0 1)))
+(GimpGegl-gegl-apply-lens-config "2023-01-26 13:31:08"
+    (time 1674720068)
+    (refraction-index 1.0409999999999999)
+    (keep-surroundings no)
+    (background-color (color-rgba 0 0 0 1)))
+(GimpGegl-gegl-apply-lens-config "2023-01-26 13:20:55"
+    (time 1674719455)
+    (refraction-index 1.228)
+    (keep-surroundings no)
+    (background-color (color-rgba 0 0 0 1)))
+
+# end of settings

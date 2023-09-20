@@ -1,0 +1,24 @@
+# settings
+
+(GimpGegl-gimp-threshold-config "2023-09-15 09:26:23"
+    (time 1694750183)
+    (channel value)
+    (low 0.71372549019607845)
+    (high 1))
+(GimpGegl-gimp-threshold-config "2023-07-13 09:42:31"
+    (time 1689221551)
+    (channel value)
+    (low 0.49803921568627452)
+    (high 1))
+(GimpGegl-gimp-threshold-config "2023-03-09 13:57:21"
+    (time 1678350441)
+    (channel value)
+    (low 0.74901960784313726)
+    (high 1))
+(GimpGegl-gimp-threshold-config "2023-03-09 13:54:50"
+    (time 1678350290)
+    (channel value)
+    (low 0.78431372549019607)
+    (high 1))
+
+# end of settings

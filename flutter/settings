@@ -1,0 +1,4 @@
+{
+  "android-sdk": "/opt/android-sdk/",
+  "android-studio-dir": "/opt/android-studio/"
+}

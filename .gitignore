@@ -1,0 +1,79 @@
+/'Code - OSS'/
+/Electron/
+# /GIMP/
+# /GNOME-xdg-terminals.list*
+/StardewValley/
+# /alacritty/
+# /ardour7/
+/cef_user_data/
+/chromium/
+/chromium-flags/
+/chromium-flags.conf*
+# /coc/
+/code-server/
+/dconf/
+/discord/
+/dleyna-renderer-service.conf*
+/dleyna-server-service.conf*
+/eog/
+# /euporie/
+/evolution/
+# /figma-linux/
+# /fish/
+# /flutter/
+/gconf/
+# /gnome-control-center/
+# /gnome-session/
+/goa-1.0/
+/google-chrome/
+/google-chrome-beta/
+/google-chrome-unstable/
+/gsconnect/
+# /gtk-2.0/
+# /gtk-3.0/
+# /gtk-4.0/
+/htop/
+# /hypr/
+/ibus/
+/karboncalligraphyrc*
+# /kdenlive-layoutsrc*
+# /kdenliverc*
+# /kitty/
+/kritadisplayrc*
+/kritarc*
+/libreoffice/
+/matplotlib/
+/menus/
+/microsoft-edge-beta/
+/microsoft-edge-dev/
+/mimeapps.list*
+/monitors.xml*
+/monitors.xml~*
+# /nautilus/
+# /neofetch/
+# /nitrogen/
+# /nvim/
+/obs-studio/
+/pavucontrol.ini
+/procps/
+/pulse/
+# /qtile/
+# /rofi/
+/simple-update-notifier/
+# /spicetify/
+# /spotify/
+/systemd/
+/texstudio/
+/tiling-assistant/
+/totem/
+/unity3d/
+/user-dirs.dirs*
+/user-dirs.locale*
+/vis/
+# /vlc/
+# /waybar/
+/xdg-terminals.list*
+# /xmobar/
+# /xmonad/
+/yay/
+/yelp/

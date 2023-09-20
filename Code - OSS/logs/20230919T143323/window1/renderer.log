@@ -1,0 +1,3 @@
+2023-09-19 14:33:24.800 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/ruvi/.config/.gitignore","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-09-19 14:33:28.675 [info] [perf] Render performance baseline is 55ms
+2023-09-19 14:33:41.265 [info] [perf] Render performance baseline is 48ms

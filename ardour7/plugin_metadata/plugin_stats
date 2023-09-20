@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginStats>
+  <Plugin type="LV2" id="urn:ardour:a-reverb" lru="1693321235" use-count="2"/>
+  <Plugin type="LV2" id="https://community.ardour.org/node/7596" lru="1690700261" use-count="2"/>
+</PluginStats>
